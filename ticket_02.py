@@ -4,3 +4,9 @@ print()
 print("python is a programming language")
 
 print("cats", "dogs", "fish", sep=" - ")
+
+print("Hello,", end=" ")
+print("world!")
+
+
+print("cats", "dogs", "fish", sep="🐍")
