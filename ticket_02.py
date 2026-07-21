@@ -11,4 +11,3 @@ print("world!")
 
 print("cats", "dogs", "fish", sep="🐍")
 
-print("Apple", "Banana", "Mango", sep="🍎" ,sep="🐍")
